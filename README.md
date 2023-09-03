@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on enhancing my problem solving skills and web development skills too.
+- 🌱 I’m currently learning cybersecurity.
 <!--
 **pegimon/pegimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
