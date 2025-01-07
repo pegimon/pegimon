@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Yousef Alaa]!
+# 👋 Hello, I'm Yousef Alaa!
 
 Welcome to my GitHub profile! I'm a passionate software developer with a strong interest in web and mobile app security. I enjoy learning new technologies and applying my skills to solve real-world problems.
 
@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a strong 
 
 ## 💼 Professional Experience
 
-- **Software Developer** at [ABS Courier]
+- **Software Developer** at ABS Courier
   - Worked on backend development using Nestjs, Fastify, and MicrosoftSql.
   - Collaborated with cross-functional teams to deliver high-quality software solutions.
   - Designed and implemented microservices architecture using Change Data Capture (CDC) in Microsoft SQL Server to ensure reliable and efficient data synchronization between services.
