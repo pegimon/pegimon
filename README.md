@@ -4,6 +4,7 @@
 
 **Backend engineer from Cairo 🇪🇬. I work on the backend of a production courier & logistics platform.**
 
+<a href="https://yousefalaa.com"><img src="https://img.shields.io/badge/Portfolio-yousefalaa.com-0B1020?style=for-the-badge&labelColor=E8B54D&logo=googlechrome&logoColor=0B1020" /></a>
 <a href="https://www.linkedin.com/in/yousefalaa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://pegimon.medium.com"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="mailto:yousefalaa2279@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -27,6 +28,8 @@ const yousef = {
 - 🐘 Tuned queries on **tens-of-millions-row** tables with partitioning, partial indexes and N+1 removal
 - 🧵 Built **idempotent queue jobs** for bulk imports and streaming exports that keep memory flat
 - 🔐 Wrote **E2E & authorization test suites** in CI and ran API security testing across the platform
+
+➡️ Case studies with diagrams and numbers: **[yousefalaa.com](https://yousefalaa.com)**
 
 ### 🛠️ Tech I use
 
